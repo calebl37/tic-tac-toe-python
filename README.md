@@ -1,4 +1,6 @@
 # tic-tac-toe-python
 tic-tac-toe in python
 just follow the instructions 
-Note: graphics are not great
+graphics are not great
+Note: the only game configuration is 3 by 3
+
